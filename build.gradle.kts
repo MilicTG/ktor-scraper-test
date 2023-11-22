@@ -40,4 +40,6 @@ dependencies {
     implementation("io.ktor:ktor-client-core:$ktor_version")
     implementation("io.ktor:ktor-client-cio:$ktor_version")
     implementation("org.jsoup:jsoup:1.16.2")
+    implementation("it.skrape:skrapeit:1.1.5")
+    implementation("it.skrape:skrapeit-ktor-extension:1.0.0")
 }
